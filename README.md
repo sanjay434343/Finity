@@ -1,7 +1,7 @@
 # 🌊 Finity - Infinite Learning & Entertainment
 
 <div align="center">
-  <img src="assets/images/app_icon.png" alt="Finity Logo" width="120" height="120"/>
+  <img src="readme_images/flutter_01.png" alt="Finity Logo" width="120" height="120"/>
   
   [![Flutter](https://img.shields.io/badge/Flutter-3.2.0+-blue.svg)](https://flutter.dev/)
   [![Dart](https://img.shields.io/badge/Dart-3.0+-blue.svg)](https://dart.dev/)
@@ -81,30 +81,92 @@ Support for 13 languages with real-time content translation:
   <table>
     <tr>
       <td align="center">
-        <img src="screenshots/onboarding.png" alt="Onboarding" width="200"/>
+        <img src="readme_images/flutter_02.png" alt="Splash Screen" width="200"/>
+        <br><b>Splash Screen</b>
+      </td>
+      <td align="center">
+        <img src="readme_images/flutter_03.png" alt="Onboarding" width="200"/>
         <br><b>Onboarding Experience</b>
       </td>
       <td align="center">
-        <img src="screenshots/login.png" alt="Login" width="200"/>
+        <img src="readme_images/flutter_04.png" alt="Login" width="200"/>
         <br><b>Google Sign-In</b>
-      </td>
-      <td align="center">
-        <img src="screenshots/flow_screen.png" alt="Flow" width="200"/>
-        <br><b>Finity Flow</b>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="screenshots/loops_screen.png" alt="Loops" width="200"/>
+        <img src="readme_images/flutter_05.png" alt="Home Flow" width="200"/>
+        <br><b>Finity Flow - Home</b>
+      </td>
+      <td align="center">
+        <img src="readme_images/flutter_06.png" alt="Flow Content" width="200"/>
+        <br><b>Flow Content Detail</b>
+      </td>
+      <td align="center">
+        <img src="readme_images/flutter_07.png" alt="Flow Player" width="200"/>
+        <br><b>Finity Player</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="readme_images/flutter_08.png" alt="Loops Screen" width="200"/>
         <br><b>Finity Loops</b>
       </td>
       <td align="center">
-        <img src="screenshots/liked_screen.png" alt="Liked" width="200"/>
-        <br><b>Finity Hearts</b>
+        <img src="readme_images/flutter_09.png" alt="Loops Detail" width="200"/>
+        <br><b>Loops Content Detail</b>
       </td>
       <td align="center">
-        <img src="screenshots/settings_screen.png" alt="Settings" width="200"/>
+        <img src="readme_images/flutter_10.png" alt="Loops Music" width="200"/>
+        <br><b>Loops with Music</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="readme_images/flutter_11.png" alt="Search Screen" width="200"/>
+        <br><b>Search Functionality</b>
+      </td>
+      <td align="center">
+        <img src="readme_images/flutter_12.png" alt="Search Results" width="200"/>
+        <br><b>Search Results</b>
+      </td>
+      <td align="center">
+        <img src="readme_images/flutter_13.png" alt="Liked Hearts" width="200"/>
+        <br><b>Finity Hearts - Liked</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="readme_images/flutter_14.png" alt="Liked Flow" width="200"/>
+        <br><b>Liked Flow Content</b>
+      </td>
+      <td align="center">
+        <img src="readme_images/flutter_15.png" alt="Liked Loops" width="200"/>
+        <br><b>Liked Loops Content</b>
+      </td>
+      <td align="center">
+        <img src="readme_images/flutter_16.png" alt="Settings" width="200"/>
         <br><b>Settings & Profile</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="readme_images/flutter_17.png" alt="Language Selection" width="200"/>
+        <br><b>Language Selection</b>
+      </td>
+      <td align="center">
+        <img src="readme_images/flutter_18.png" alt="Dark Mode" width="200"/>
+        <br><b>Dark Mode Theme</b>
+      </td>
+      <td align="center">
+        <img src="readme_images/flutter_19.png" alt="Update Check" width="200"/>
+        <br><b>Update Checker</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="3">
+        <img src="readme_images/flutter_20.png" alt="App Overview" width="600"/>
+        <br><b>Complete App Overview</b>
       </td>
     </tr>
   </table>
