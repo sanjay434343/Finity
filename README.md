@@ -86,7 +86,7 @@ Support for 13 languages with real-time content translation:
       </td>
       <td align="center">
         <img src="readme_images/flutter_03.png" alt="Onboarding" width="200"/>
-        <br><b>Onboarding Experience</b>
+        <br><b>OProfile</b>
       </td>
       <td align="center">
         <img src="readme_images/flutter_04.png" alt="Login" width="200"/>
