@@ -80,31 +80,35 @@ Support for 13 languages with real-time content translation:
 <div align="center">
   <table>
     <tr>
+        <td align="center">
+        <img src="readme_images/flutter_01.png" alt="Loops Detail" width="200"/>
+        <br><b>Finity Flow Home</b>
+      </td>
       <td align="center">
         <img src="readme_images/flutter_02.png" alt="Splash Screen" width="200"/>
         <br><b>Splash Screen</b>
       </td>
       <td align="center">
         <img src="readme_images/flutter_03.png" alt="Onboarding" width="200"/>
-        <br><b>OProfile</b>
+        <br><b>Profile</b>
       </td>
       <td align="center">
         <img src="readme_images/flutter_04.png" alt="Login" width="200"/>
-        <br><b>Google Sign-In</b>
+        <br><b>Finity Loops</b>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="readme_images/flutter_05.png" alt="Home Flow" width="200"/>
-        <br><b>Finity Flow - Home</b>
+        <br><b>Detaild sheet</b>
       </td>
       <td align="center">
         <img src="readme_images/flutter_06.png" alt="Flow Content" width="200"/>
-        <br><b>Flow Content Detail</b>
+        <br><b>Finity Picks</b>
       </td>
       <td align="center">
         <img src="readme_images/flutter_07.png" alt="Flow Player" width="200"/>
-        <br><b>Finity Player</b>
+        <br><b>Finity Picks Result</b>
       </td>
     </tr>
     <tr>
@@ -112,13 +116,13 @@ Support for 13 languages with real-time content translation:
         <img src="readme_images/flutter_08.png" alt="Loops Screen" width="200"/>
         <br><b>Finity Loops</b>
       </td>
-      <td align="center">
+        <td align="center">
         <img src="readme_images/flutter_09.png" alt="Loops Detail" width="200"/>
-        <br><b>Loops Content Detail</b>
+        <br><b>Finity Hearts</b>
       </td>
       <td align="center">
         <img src="readme_images/flutter_10.png" alt="Loops Music" width="200"/>
-        <br><b>Loops with Music</b>
+        <br><b>Saved Loops</b>
       </td>
     </tr>
     <tr>
