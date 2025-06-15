@@ -1,7 +1,7 @@
 # 🌊 Finity - Infinite Learning & Entertainment
 
 <div align="center">
-  <img src="readme_images/flutter_01.png" alt="Finity Logo" width="120" height="120"/>
+  <img src="readme_images/finity.png" alt="Finity Logo" width="120" height="120"/>
   
   [![Flutter](https://img.shields.io/badge/Flutter-3.2.0+-blue.svg)](https://flutter.dev/)
   [![Dart](https://img.shields.io/badge/Dart-3.0+-blue.svg)](https://dart.dev/)
