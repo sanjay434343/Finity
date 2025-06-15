@@ -163,12 +163,7 @@ Support for 13 languages with real-time content translation:
         <br><b>Update Checker</b>
       </td>
     </tr>
-    <tr>
-      <td align="center" colspan="3">
-        <img src="readme_images/flutter_20.png" alt="App Overview" width="600"/>
-        <br><b>Complete App Overview</b>
-      </td>
-    </tr>
+    
   </table>
 </div>
 
