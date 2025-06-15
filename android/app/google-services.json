@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "86382351062",
+    "project_id": "finity-73202",
+    "storage_bucket": "finity-73202.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86382351062:android:1f86a51fc38bf9f2a4ef77",
+        "android_client_info": {
+          "package_name": "com.app.finity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86382351062-1t75odji972rol6d0cue2h79pqovo22p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.finity",
+            "certificate_hash": "08524966e6c30cae56a8e8156a2fe9d8798c78f0"
+          }
+        },
+        {
+          "client_id": "86382351062-dsdmju9pj7du2q3kh8c6ssa60tmls4gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWf0hqpl7IaI8tnMZ_Pff3Qot7uUCWoEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86382351062-dsdmju9pj7du2q3kh8c6ssa60tmls4gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
